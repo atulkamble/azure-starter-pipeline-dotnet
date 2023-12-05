@@ -1,0 +1,15 @@
+D:\Github\DotNetApp\MyApp\bin\Debug\net7.0\MyApp.exe
+D:\Github\DotNetApp\MyApp\bin\Debug\net7.0\MyApp.deps.json
+D:\Github\DotNetApp\MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+D:\Github\DotNetApp\MyApp\bin\Debug\net7.0\MyApp.dll
+D:\Github\DotNetApp\MyApp\bin\Debug\net7.0\MyApp.pdb
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.csproj.AssemblyReference.cache
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.dll
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.pdb
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+D:\Github\DotNetApp\MyApp\obj\Debug\net7.0\ref\MyApp.dll
