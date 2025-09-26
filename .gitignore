@@ -1,0 +1,11 @@
+# Build results
+bin/
+obj/
+
+# Local tooling caches
+.dotnet/
+
+# Visual Studio/VS Code local settings
+.vs/
+*.user
+*.suo
