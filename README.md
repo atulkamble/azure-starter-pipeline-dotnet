@@ -22,7 +22,7 @@ The console prints a greeting and the current timestamp.
 2. Create a pipeline and point it at `azure-pipelines.yml`.
 3. Ensure your agent has access to nuget.org. Offline agents can use an internal NuGet feed by setting up `NuGet.config` or `NuGetFallbackFolder`.
 
-The stock YAML uses the `DotNetCoreCLI` tasks to restore, build, and publish the console app, then publishes the output as a build artifact. Add a `dotnet test` step once you introduce test projects.
+The stock YAML uses `DotNetCoreCLI` tasks to restore, build, and publish the console app. The publish stage explicitly disables web-project auto-detection and zips the published output before uploading it as a `drop` artifact. Add a `dotnet test` step once you introduce test projects.
 
 ## Housekeeping Tips
 - Build outputs live under `MyApp/bin` and `MyApp/obj`; they are ignored via `.gitignore`.
